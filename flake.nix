@@ -43,6 +43,8 @@
 
 	    gotools
 	    golangci-lint
+	    
+	    cobra-cli
           ];
         };
       });
